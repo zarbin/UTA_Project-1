@@ -1,1 +1,1 @@
-"I am just testing and practicing"
+print ("I am just testing and practicing")
