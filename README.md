@@ -1,6 +1,6 @@
 # Rising Rates and Housing impact in Austin
 
-**Team Members**    
+### Team Members   
 * Ankita Sarkar    
 * Kim Sernett    
 * Justin Bernier    
@@ -13,7 +13,7 @@
 3.	Impact of Fed rate hike on housing prices.
 
 
-**Datasources**
+### Datasources
 
 * https://www.zillow.com/research/data/
 * https://rapidapi.com/search/zillow 
