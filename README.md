@@ -17,6 +17,6 @@ Our objective is to see if the Fed raising of rates is having an impact on real 
 ### Datasources
 
 * https://www.zillow.com/research/data/
-* [https://rapidapi.com/search/zillow ](https://www.redfin.com/news/data-center/)
 * https://fred.stlouisfed.org/series/FEDFUNDS
+* https://www.redfin.com/news/data-center/
 
